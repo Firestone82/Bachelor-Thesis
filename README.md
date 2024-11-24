@@ -1,4 +1,4 @@
-<img width="20%" src="assets/icon-no-bg.png" align="right" alt="Icon">
+<img width="20%" src="assets\icon.png" align="right" alt="Icon">
 <br>
 
 # Bachelor Thesis: **Trails Through Shadows**
@@ -51,4 +51,4 @@ However, I also contributed to other areas of the project, for example: Database
 ![Campaign Workbench](TTS-Dashboard/static/img/assets/dashboardWorkbenchCampaign.png)
 
 ### Final Board Game Design 
-![Board Game](TTS-Thesis\kov0354\src\figures\images\game.png)
+![Board Game](assets/board-view.png)
