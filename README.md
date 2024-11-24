@@ -45,10 +45,10 @@ However, I also contributed to other areas of the project, for example: Database
 ![Class Table](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardTable.png)
 
 ### Dashboard - Part Workbench  
-![Part Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/img/assets/dashboardWorkbenchPart.png)
+![Part Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardWorkbenchPart.png)
 
 ### Dashboard - Campaign Workbench  
-![Campaign Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/assets/dashboardWorkbenchCampaign.png)
+![Campaign Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardWorkbenchCampaign.png)
 
 ### Final Board Game Design 
 ![Board Game](assets/board-view.png)
