@@ -2,9 +2,9 @@
 <br>
 
 # Bachelor Thesis: **Trails Through Shadows**
-**Author:** Pavel Mikula (MIK0486)  
-**Year of Graduation:** 2024  
-**[Thesis on DSpace](https://dspace.vsb.cz/handle/10084/153760)**  
+- **Author:** Pavel Mikula (MIK0486)  
+- **Year of Graduation:** 2024  
+- **[Thesis on DSpace](https://dspace.vsb.cz/handle/10084/153760)**  
 
 ## Thesis Overview 🎓
 The primary goal of this thesis was to design and develop a hybrid narrative evolutionary game that integrates both physical and virtual components. 
