@@ -1,0 +1,15 @@
+[submodule "Thesis"]
+	path = TTS-Thesis
+	url = https://github.com/Trails-Through-Shadows/TTS-Thesis
+[submodule "Dashboard"]
+	path = TTS-Dashboard
+	url = https://github.com/Trails-Through-Shadows/TTS-Dashboard
+[submodule "API"]
+	path = TTS-API
+	url = https://github.com/Trails-Through-Shadows/TTS-API
+[submodule "Frontend"]
+	path = TTS-Frontend
+	url = https://github.com/Trails-Through-Shadows/TTS-Frontend
+[submodule "Database"]
+	path = TTS-Database
+	url = https://github.com/Trails-Through-Shadows/TTS-Database
