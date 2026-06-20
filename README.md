@@ -1,54 +1,33 @@
-<img width="20%" src="assets\icon.png" align="right" alt="Icon">
-<br>
+# Bachelor-Thesis
 
-# Bachelor Thesis: **Trails Through Shadows**
-- **Author:** Pavel Mikula (MIK0486)  
-- **Year of Graduation:** 2024  
-- **[Thesis on DSpace](https://dspace.vsb.cz/handle/10084/153760)**  
+> **VŠB-TUO** — Bachelor's thesis · 2024
 
-## Thesis Overview 🎓
-The primary goal of this thesis was to design and develop a hybrid narrative evolutionary game that integrates both physical and virtual components. 
-The game combines a physically playable board with a digital interface (accessible via phone, laptop, or projector). This virtual environment guides 
-players through setting up and evolving game scenarios, with features such as dungeon exploration and branching narratives.
+![LaTeX](https://img.shields.io/badge/LaTeX-TeX-blue)
 
-The project also involved creating a game model, complete with rules and systems to govern player behavior and interaction.
+## About
 
-## About **Trails Through Shadows** 🙌
-**Trails Through Shadows** is a narrative tabletop game that blends traditional board game mechanics with modern technology. 
-It draws inspiration from titles like **Gloomhaven** and **Forgotten Waters**, evident in its combat system and branching narrative paths driven by player choices.
+LaTeX source for the Bachelor's thesis *Trails Through Shadows* (2024), submitted at VŠB-TUO, Faculty of Electrical Engineering and Computer Science.
 
-Players utilize both physical components and digital tools to progress through an immersive, story-rich experience.
+The project was a collaborative hybrid physical-digital narrative game — merging tabletop mechanics with digital interfaces for dungeon exploration and branching storylines. My primary contribution was the **Dashboard**, built with Python and Django, covering the backend API, database schema, and image generation pipeline.
 
-## Teamwork 💪
-This thesis was developed collaboratively with:
-- [Barbora Kovalská](https://github.com/Kkobarii)
-- [Martin Korotwitschka](https://github.com/rcMarty)
-- [Miroslav Osoba](https://github.com/Orfian)
+The full game source lives in the [Trails-Through-Shadows](https://github.com/Trails-Through-Shadows) GitHub organization.
 
-Despite our limited experience working as a team, we managed to synchronize our efforts effectively, leveraging knowledge gained during our studies to achieve our goals.
+Published thesis: [DSpace VŠB-TUO](https://dspace.vsb.cz/handle/10084/153760)
 
-## My Contribution 🧑‍💻
-Our work was divided into four main sections:
-1. **[Backend (API)](https://github.com/Trails-Through-Shadows/TTS-API)**
-2. **[Frontend (Dashboard)](https://github.com/Trails-Through-Shadows/TTS-Dashboard)** – My primary responsibility
-3. **[Frontend (Game Environment)](https://github.com/Trails-Through-Shadows/TTS-Frontend)**
-4. **[Game Logic](https://github.com/Trails-Through-Shadows/TTS-API)**
+## Build
 
-Full source code of this project can be viewed in our shared organization on [github](https://github.com/Trails-Through-Shadows).
+Requires a full TeX Live or MiKTeX installation.
 
-My focuse rested on the **Dashboard**, built using Python and the Django framework with main functionality driven by JavaScript.
-However, I also contributed to other areas of the project, for example: Database Scheme, core of API or image prompting.
+1. Compile the document:
+   ```bash
+   pdflatex main.tex
+   biber main
+   pdflatex main.tex
+   pdflatex main.tex
+   ```
 
----
-## Screenshots 📸
-### Dashboard - Class Table  
-![Class Table](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardTable.png)
+   Or open `main.tex` in [Overleaf](https://overleaf.com) or TeXstudio.
 
-### Dashboard - Part Workbench  
-![Part Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardWorkbenchPart.png)
+## License
 
-### Dashboard - Campaign Workbench  
-![Campaign Workbench](https://github.com/Trails-Through-Shadows/TTS-Dashboard/blob/master/static/img/assets/dashboardWorkbenchCampaign.png)
-
-### Final Board Game Design 
-![Board Game](assets/board-view.png)
+© Pavel Mikula, 2024. All rights reserved.
